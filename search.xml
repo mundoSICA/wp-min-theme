@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+   <ShortName>Min</ShortName>
+   <Description>Buscar en min.com.</Description>
+   <Tags>Min</Tags>
+   <Contact>programacion@mundosica.com</Contact>
+   <Url type="text/html"
+        template="http://min.com/?s={searchTerms}&amp;src=buscadorWeb"/>
+   <LongName>Buscador min.com</LongName>
+   <link href="png" type="image/png" rel="shortcut icon" />
+   <Image height="16" width="16" type="image/png">http://min.com/wp-content/themes/min/favicon.png</Image>
+   <Image height="64" width="64" type="image/png">http://min.com/wp-content/themes/min/images/icon_64.png</Image>
+   <Developer>mundosica.com</Developer>
+   <Attribution>
+     Min Copyright 2012, min.com, Derechos reservados
+   </Attribution>
+   <SyndicationRight>open</SyndicationRight>
+   <AdultContent>false</AdultContent>
+   <Language>es-MX</Language>
+   <OutputEncoding>UTF-8</OutputEncoding>
+   <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>
